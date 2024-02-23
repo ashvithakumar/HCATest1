@@ -1,4 +1,4 @@
-**Health Care analyst automation test readme file:-**
+**Readme file:-**
 
 This code is written in cypress framework using java script to automate a few scenarios. Please follow the below instructions to run in your local machine.
 
