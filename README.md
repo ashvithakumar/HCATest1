@@ -1,6 +1,6 @@
 **Readme file:-**
 
-This code is written in cypress framework using java script to automate a few scenarios. Please follow the below instructions to run in your local machine.
+This code is written in cypress framework using java script to automate test scenarios. Please follow the below instructions to run in your local machine.
 
 Go to git hub Repo and under code tab, under local - click `Clone using the web URL`. (eg:- the http link  https://github.com/ashvithakumar/HCATest1.git) to copy url
 
