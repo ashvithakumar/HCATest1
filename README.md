@@ -4,7 +4,7 @@ This code is written in cypress framework using java script to automate test sce
 
 Go to git hub Repo and under code tab, under local - copy link for `Clone using the web URL`. (eg:- the http link  https://github.com/ashvithakumar/HCATest1.git)
 
-In your local machine terminal, go to the location where the folder needs to be cloned and run command - `git clone <copied url>` (eg:- git clone <copied url>)
+In your local machine terminal, go to the location where the folder needs to be cloned and run command - `git clone <copied url>` 
 
 Navigate to your clonned folder in terminal, and run `npm install` to install the dependencies in your project
 
